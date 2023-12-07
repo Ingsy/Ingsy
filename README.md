@@ -2,6 +2,7 @@
 
  -  Im a Junior Frontend-Developer
  -  📫 How to reach me: ingeborg_mellingen89@hotmail.com
+ -  😁 🤩 😏
 
 <!--
 **Ingsy/Ingsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
